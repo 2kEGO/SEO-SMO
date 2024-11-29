@@ -1,0 +1,61 @@
+.seo-smo {
+    color: var(--fontColorWhite);
+    font-weight: 800;
+
+    /* background-color: hsl(0, 0%, 20%); */
+    /* filter: blur(0.5px); */
+    padding: 20px;
+
+    
+
+    border-radius: 10px;
+}
+
+.p-container label {
+
+    font-size: 20pt;
+    margin-bottom: 15px;
+}
+
+.p-container p {
+    font-size: 15pt;
+    margin-bottom: 15px;
+}
+
+.smo-section {
+    margin-top: 10vh;
+}
+
+#title-seo h1{
+    color: var(--fontColorWhite);
+}
+
+
+.insta a img {
+
+    height: 24px;
+    width: 24px;
+}
+
+.insta {
+    margin-top: 10vh;
+    display: grid;
+    place-content: center;
+}
+
+.citation {
+    margin-top: 10vh;
+}
+
+.citation ul {
+    list-style-type: none;
+    padding: 0;
+}
+.citation ul li{
+    margin-top: 20px;
+}
+
+.seo-section {
+
+    padding: 20px;
+}
